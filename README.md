@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bommaganivinay
+- 👋 Hi, I’m @bommaganivinaykumar
 - 👀 I’m interested in ...Front End Developer
 - 🌱 I’m currently learning ... Full Stack Developer On Python
 - 💞️ I’m looking to collaborate on ... Front End Developer 
